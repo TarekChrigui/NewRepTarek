@@ -14,7 +14,7 @@ print("Enabled or not: ",status_E)
 driver.find_element_by_id('RESULT_TextField-1').send_keys("tarek")
 driver.find_element_by_id('RESULT_TextField-2').send_keys("chrigui")
 driver.find_element_by_id('RESULT_TextField-3').send_keys("+216 23 787 766")
-driver.find_element_by_id('RESULT_TextField-4').send_keys("Tunisia")
+driver.find_element_by_id('RESULT_TextField-4').send_keys("USA")
 driver.find_element_by_id('RESULT_TextField-5').send_keys("kairouan")
 driver.find_element_by_id('RESULT_TextField-6').send_keys("tarekchrigui@gmail.com")
 
